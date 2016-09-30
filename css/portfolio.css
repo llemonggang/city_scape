@@ -1,0 +1,65 @@
+.panel-footer {
+  text-align: center;
+}
+
+#design {
+  text-align: left;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+  background-color: salmon;
+}
+
+#and {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+  background-color: #20B2AA;
+}
+
+#develop {
+  text-align: right;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+  background-color: #FFB6C1;
+}
+
+.panel-default {
+  background-image: url(../images/wood.jpeg);
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+}
+
+#skills {
+  color: white;
+  text-align: right;
+}
+
+li, a {
+  display: inline;
+  padding: 10px;
+  text-align: left;
+  color: white;
+}
+
+a:hover {
+  color: #4d1926;
+  text-decoration: none;
+}
+
+body {
+  background-image: url(../images/city-sky.jpeg);
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
